@@ -1,0 +1,3 @@
+[submodule "frisbee-db"]
+	path = frisbee-db
+	url = git@github.com:flokain/frisbee-db.git
